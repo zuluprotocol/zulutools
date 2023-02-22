@@ -10,7 +10,7 @@ require (
 	github.com/gdamore/tcell/v2 v2.5.2
 	github.com/gogo/protobuf v1.3.2
 	github.com/shopspring/decimal v1.3.1
-	github.com/spf13/cobra v1.6.0
+	github.com/spf13/cobra v1.6.1
 	github.com/stretchr/testify v1.8.0
 	github.com/syndtr/goleveldb v1.0.1-0.20220614013038-64ee5596c38a
 	github.com/tendermint/tm-db v0.6.7
